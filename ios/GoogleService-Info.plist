@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>370213450993-at1lh5j3usvonrca2nmkeh6i2dkqeb4k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.370213450993-at1lh5j3usvonrca2nmkeh6i2dkqeb4k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>370213450993-o7lj6jn6dc2srn65u9poejbmhpif9bcc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVHRfmReWwTLefIannhNOc9jpbe2rQL3A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>370213450993</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FreeCampingAustralia</string>
+	<key>PROJECT_ID</key>
+	<string>campingapp-38f0c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>campingapp-38f0c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:370213450993:ios:69a20b1cad9939fef26550</string>
+	<key>DATABASE_URL</key>
+	<string>https://campingapp-38f0c.firebaseio.com</string>
+</dict>
+</plist>

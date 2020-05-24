@@ -1,0 +1,16 @@
+{
+    "networkError":"Please check your internet connection",
+    "undefinedError":"Something went wrong! Please try again",
+    "successLogin":"Successfully match",
+    "passwordMatch":"Successfully login",
+    "passwordError":"Please enter correct password",
+    "correctPhone":"Please enter correct phone number",
+    "apiError":"Something went wrong. Please try again later.",
+    "profileComplete":"Please complete your profile first",
+    "validNumber":"Please enter valid mobile number",
+    "invalidCode":"Enter Valid Code",
+    "successSend":"Successfully Send",
+    "updatedSuccess":"Successfully updated",
+    "invalidEmail":"Invalid Email"
+   
+}
