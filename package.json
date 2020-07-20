@@ -16,7 +16,7 @@
     "@react-native-community/viewpager": "^3.2.0",
     "EventEmitter": "^1.0.0",
     "babel-eslint": "^10.0.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "native-base": "^2.13.8",
     "react": "16.9.0",
     "react-native": "0.61.5",
